@@ -1,6 +1,16 @@
 ## Hello World! 👋
-My name is Murilo, nice to meet you!
-- 🔭 I’m currently studying Systems Analysis and Development at Catholic University of Brasília (UCB).
-- 🌱 I’m currently learning C, Python and Java fundamentals.
-- 🤔 I’m looking for help with improving my skills in software development, problem-solving, and understanding best practices in programming.
-- 📫 How to reach me: **[murilolira77@gmail.com]**
+Meu nome é Murilo Gonçalves, desenvolvedor full-stack com foco no desenvolvimento back-end!
+- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília.
+- 👾 Desenvolvedor Full-Stack com foco no desenvolvimento e resolução de problemas relacionados a Software.
+- 🤔 Buscando constantemente novos desafios em programação para evoluir, criar e gerar impacto com tecnologia..
+- 📫 Como me procurar: **[murilolira77@gmail.com]**
+
+## 🚀 Tecnologias
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
