@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi,+nice+to+meet+you!;I'm+Murilo+Gonçalves;Future+Software+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi,+nice+to+meet+you!;I'm+Murilo+Gonçalves;+Software+Developer" />
 
 ## Hello World! 👋
 Meu nome é Murilo Gonçalves, desenvolvedor full-stack com foco no desenvolvimento back-end!
