@@ -1,14 +1,19 @@
-
 <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi,+nice+to+meet+you!;I'm+Murilo+Gonçalves;+Software+Developer" />
 
 ## Hello World! 👋
+
 Meu nome é Murilo Gonçalves, desenvolvedor full-stack com foco no desenvolvimento back-end!
+
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília.
 - 👾 Desenvolvedor Full-Stack com foco no desenvolvimento e resolução de problemas relacionados a Software.
 - 🤔 Buscando constantemente novos desafios em programação para evoluir, criar e gerar impacto com tecnologia..
 - 📫 Como me procurar: **[murilolira77@gmail.com]**
 
 ## 🚀 Tecnologias
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
