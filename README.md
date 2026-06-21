@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi,+nice+to+meet+you!;I'm+Murilo+Gonçalves;+Software+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi,+nice+to+meet+you!;I'm+Murilo+Lira;+Software+Developer" />
 
 ## Hello World! 👋
 
